@@ -1,4 +1,0 @@
-Log file created at: 2018/02/18 16:41:44
-Running on machine: MIRA
-Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
-E0218 16:41:44.964493  4492 c_interface.cc:59] InvalidOperation :  Error in charter.txt:3, entries can not start or end with colon: наименование:
